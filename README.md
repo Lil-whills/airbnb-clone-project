@@ -79,3 +79,35 @@ A clear and responsive design is critical to building trust and ensuring users c
 -----------------------------------------------------------------------------------------------------------
 
 
+---
+
+### 🎨 Design Properties from Figma
+
+#### 🎨 Color Styles
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`
+
+---
+
+#### ✒️ Typography
+- **Primary Font Family:** Circular
+- **Font Weights:**
+  - **Bold (700)** – for headings
+  - **Medium (500)** – for standard UI text
+  - **Book (400)** – for secondary content
+- **Font Sizes:**
+  - **Headings:** 24px – 32px  
+  - **Body Text:** 16px  
+  - **Secondary Text:** 14px
+
+---
+
+### 🧩 Why Design Properties Matter
+
+Identifying design properties like colors, fonts, and layout in a mockup helps ensure **visual consistency**, **brand alignment**, and **better developer-designer collaboration**. It also improves accessibility, simplifies component reuse, and reduces confusion during the development process. Following the design specs from Figma ensures that what we build reflects the intended user experience and aesthetic.
+
+
+
