@@ -109,5 +109,30 @@ A clear and responsive design is critical to building trust and ensuring users c
 
 Identifying design properties like colors, fonts, and layout in a mockup helps ensure **visual consistency**, **brand alignment**, and **better developer-designer collaboration**. It also improves accessibility, simplifies component reuse, and reduces confusion during the development process. Following the design specs from Figma ensures that what we build reflects the intended user experience and aesthetic.
 
+------------------------------------------------------------------------------
+
+
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+This project simulates a collaborative team environment with clearly defined roles. Each role plays a critical part in the development, design, testing, and deployment of the StayEase Airbnb Clone.
+
+| **Role**            | **Responsibilities**                                                                 |
+|---------------------|----------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees the project timeline, coordinates team activities, ensures deliverables are met, and resolves roadblocks. |
+| **Frontend Developers** | Build responsive UI components, integrate APIs, and ensure a smooth user experience across devices. |
+| **Backend Developers** | Design and build server-side logic, APIs, and database integration; ensure secure and scalable architecture. |
+| **Designers**        | Develop visual mockups in Figma, define design system, ensure consistency and excellent user experience. |
+| **QA/Testers**       | Write test cases, perform manual and automated testing, identify and report bugs, and validate features. |
+| **DevOps Engineers** | Manage deployment pipelines, CI/CD, and infrastructure setup for reliable delivery and uptime. |
+| **Product Owner**    | Defines product goals and priorities, clarifies requirements, and ensures features align with user needs. |
+
+
+---
+
+Each role contributes to the success of the project by ensuring quality, collaboration, and accountability at every stage of development.
+
 
 
