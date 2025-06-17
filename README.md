@@ -37,3 +37,46 @@ End Date: June 22, 2025
 - Designers
 - QA/Testers
 - DevOps Engineers
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+- ## 🎨 UI/UX Design Planning
+
+### 🔹 Design Goals
+- Create an intuitive, seamless booking experience for users
+- Maintain visual consistency across all pages
+- Ensure fast load times and responsive design on all devices
+- Make the interface accessible and easy to navigate
+- Design reusable components for scalability and maintenance
+
+---
+
+### 🔑 Key Features
+- 🔍 Property search with filters
+- 🏠 Property detail view with full descriptions and images
+- 💳 Secure checkout and booking confirmation
+- 🔐 User authentication and account management
+- ❤️ Add to favorites and view saved listings
+
+---
+
+### 📄 Primary Page Descriptions
+
+
+Page                                      Description   
+Property Listing View                     Grid view of available properties with filters (price, location, type, etc.)
+Listing Detailed View                     Detailed view of a selected property with images, amenities, pricing, and a booking form
+Simple Checkout View                      Streamlined booking process with user details, payment form, and confirmation screen
+Simple Checkout View                      Streamlined booking process with user details, payment form, and confirmation screen
+
+
+
+
+### 🧠 Importance of a User-Friendly Design
+A clear and responsive design is critical to building trust and ensuring users can easily complete bookings. Good UI/UX reduces friction, improves engagement, and leads to higher conversion rates. A well-structured interface also enhances satisfaction and encourages repeat usage.
+
+-----------------------------------------------------------------------------------------------------------
+
+
