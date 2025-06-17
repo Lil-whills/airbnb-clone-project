@@ -135,4 +135,39 @@ This project simulates a collaborative team environment with clearly defined rol
 Each role contributes to the success of the project by ensuring quality, collaboration, and accountability at every stage of development.
 
 
+---------------------------------------------------------------------------------
+
+
+
+---
+
+## 🧩 UI Component Patterns
+
+To ensure reusability, maintainability, and design consistency, the following UI components will be created for the StayEase Airbnb Clone project:
+
+### 🔹 Navbar
+- Displays the platform logo
+- Includes a search bar for property lookup
+- Provides user navigation options (e.g., login, profile, bookings)
+- Features a responsive menu for smaller screens
+
+### 🔹 Property Card
+- Showcases an image of the property
+- Displays key details (title, location, price, rating)
+- Includes a favorite (heart) button
+- Designed to be responsive in grid layout
+
+### 🔹 Footer
+- Contains site-wide navigation links (About, Contact, Terms, etc.)
+- Displays company information
+- Provides social media icons and links
+- Includes copyright information
+
+---
+
+These components will be built in a modular way for easy reuse and scalability across the application.
+
+
+----------------------------------------------------------------------
+
 
