@@ -42,7 +42,7 @@ End Date: June 22, 2025
 
 
 -----------------------------------------------------------------------------------------------------
-- ## 🎨 UI/UX Design Planning
+## 🎨 UI/UX Design Planning
 
 ### 🔹 Design Goals
 - Create an intuitive, seamless booking experience for users
@@ -64,18 +64,17 @@ End Date: June 22, 2025
 
 ### 📄 Primary Page Descriptions
 
+| Page                  | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Property Listing View**  | Grid view of available properties with filters (price, location, type, etc.) |
+| **Listing Detailed View**  | Detailed view of a selected property with images, amenities, pricing, and a booking form |
+| **Simple Checkout View**   | Streamlined booking process with user details, payment form, and confirmation screen |
 
-Page                                      Description   
-Property Listing View                     Grid view of available properties with filters (price, location, type, etc.)
-Listing Detailed View                     Detailed view of a selected property with images, amenities, pricing, and a booking form
-Simple Checkout View                      Streamlined booking process with user details, payment form, and confirmation screen
-Simple Checkout View                      Streamlined booking process with user details, payment form, and confirmation screen
-
-
-
+---
 
 ### 🧠 Importance of a User-Friendly Design
 A clear and responsive design is critical to building trust and ensuring users can easily complete bookings. Good UI/UX reduces friction, improves engagement, and leads to higher conversion rates. A well-structured interface also enhances satisfaction and encourages repeat usage.
+
 
 -----------------------------------------------------------------------------------------------------------
 
